@@ -22,6 +22,14 @@ The results are then displayed on the LCD screen for real-time monitoring of the
 # Installation and Setup
 Wiring:
 Connect the gas sensor to the Arduino's analog input pin (e.g., A0).
+
+# Future Improvements
+Add a buzzer or LED indicator to alert users when dangerous gas levels are detected.
+Implement data logging to track air quality over time.
+Enhance sensor accuracy by calibrating thresholds based on environmental conditions.
+
+# License
+This project is open-source and available under the MIT License.
 Wire the LCD display to the appropriate pins on the Arduino (following standard LCD wiring protocols).
 Arduino Code:
 Upload the provided Arduino sketch (air_quality_monitor.ino) to your Arduino UNO using the Arduino IDE.
