@@ -36,3 +36,6 @@ Upload the provided Arduino sketch (air_quality_monitor.ino) to your Arduino UNO
 
 # Thresholds:
 In the code, modify the predefined threshold values based on your specific gas sensor type and sensitivity.
+
+# Inspiration
+https://www.youtube.com/watch?v=SCXteaUVICw&t=79s
